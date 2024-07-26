@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "626551659343",
+    "firebase_url": "https://designtrack-38293-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "designtrack-38293",
+    "storage_bucket": "designtrack-38293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626551659343:android:b915d9d31aee56b9d9433a",
+        "android_client_info": {
+          "package_name": "com.mycompany.designtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOfj3NRYjQILOEqAMUzctKLrLWwuXbww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
